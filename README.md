@@ -1,0 +1,1 @@
+# ComponenteBarraLateral1
