@@ -9,6 +9,7 @@
     background-color: #151719;
     position: fixed;
     left: -200px;
+    transition: all 500ms linear;
 }
 
 #sidebar.active{
