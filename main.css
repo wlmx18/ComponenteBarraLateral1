@@ -24,3 +24,18 @@
     margin: 0 auto;
 }
 
+#sidebar .toggle-btn {
+    position: absolute;
+    left: 230px;
+    top: 20px;
+    cursor: pointer;
+}
+
+#sidebar .toggle-btn span {
+    display: block;
+    width: 40px;
+    border: 1px solid #000;
+    border-radius: 5%;
+    font-size: 30px;
+    text-align: center;
+}
